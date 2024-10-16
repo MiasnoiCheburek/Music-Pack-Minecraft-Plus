@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": { "model": "musictriggers:music_recorder" },
-        "recording=false,recording_special=false": { "model": "musictriggers:music_recorder" },
-        "recording=false,recording_special=true": { "model": "musictriggers:music_recorder_inverted" },
-        "recording=true,recording_special=false": { "model": "musictriggers:music_recorder_active" },
-        "recording=true,recording_special=true": { "model": "musictriggers:music_recorder_inverted" }
-    }
-}
