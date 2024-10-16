@@ -1,8 +1,0 @@
-apply from: rootProject.file('shared.gradle')
-
-dependencies {
-    println "Hello from buildSrc"
-    implementation(localGroovy())
-    implementation(gradleApi())
-    implementation(gradleTestKit())
-}
