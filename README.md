@@ -34,4 +34,5 @@ This music pack includes:
 - Winter - [Minecraft custom fan made disc] [Nameless Guy](https://www.youtube.com/@NamelessGuy868)
 - Nightfall - [Minecraft Fan made disc] [Nameless Guy](https://www.youtube.com/@NamelessGuy868)
 
-### DOWNLOAD IS IN RELEASES
+## DOWNLOAD
+### https://github.com/MiasnoiCheburek/Music-Pack-Minecraft-Plus/releases/tag/Release
